@@ -6,3 +6,9 @@
     background-attachment: fixed;
     background-size: cover;
 }
+
+.pokemon-area{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

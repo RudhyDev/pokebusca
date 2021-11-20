@@ -1,0 +1,14 @@
+.navbar{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-titulo{
+    padding: 0.5rem 1rem;
+}
+
+.navbar-form{
+    padding: 0 1rem;
+}
