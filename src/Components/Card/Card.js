@@ -9,7 +9,7 @@ const Card = (props) => (
 
         <img 
         className='image' 
-        src={props.image} 
+        src={props.imagem} 
         alt="Imagem do pokemon buscado" 
         />
 
